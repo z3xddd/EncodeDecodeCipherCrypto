@@ -1,4 +1,4 @@
-//how to
+// how to
 // git clone github.com/z3xddd/EncodeDecodeCipherCrypto@latest
 // cd EncodeDecodeCipherCrypto && npm i && npm run hash
 // TypeScript for Encode and Decode CryptoCipher using leaked SecretKey
